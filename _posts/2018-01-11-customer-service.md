@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "What is Jekyll"
-author: john
-categories: [ Jekyll, tutorial ]
+author: bomi
+categories: [长节目]
 image: assets/images/11.jpg
 featured: true
 hidden: true
